@@ -1,0 +1,11 @@
+MANUAL STEP REQUIRED
+
+The old Node.js backend folder (backend/) is no longer used.
+It could not be removed automatically because it was in use.
+
+To delete it:
+1. Close Cursor and all terminals
+2. Delete: c:\Users\Akhil\campus-transport\backend
+3. Delete this file
+
+We now use phoenix_backend only.

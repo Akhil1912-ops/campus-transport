@@ -1,0 +1,21 @@
+name: driver_app_flutter
+description: Campus Transport - Buggy Driver App
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^13.0.2
+  phoenix_socket: ^0.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

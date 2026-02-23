@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Set VITE_SOCKET_URL in Netlify dashboard: Site → Build & deploy → Environment
+# Example: https://campus-transport-backend.onrender.com/socket

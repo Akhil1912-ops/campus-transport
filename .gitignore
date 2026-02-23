@@ -1,0 +1,17 @@
+# Old Node.js backend (replaced by phoenix_backend)
+backend/
+
+# Supabase (not used — we use Phoenix + PostgreSQL)
+supabase/
+
+# Passenger web (Node/Vite)
+passenger-web/node_modules/
+passenger-web/dist/
+
+# Old driver-web (we use driver_app_flutter)
+driver-web/
+driver-app/
+
+# OS
+.DS_Store
+Thumbs.db
